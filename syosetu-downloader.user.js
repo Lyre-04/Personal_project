@@ -3,7 +3,7 @@
 // @name:ko      소설가가되자 다운로더 (TXT + PDF)
 // @name:en      Syosetu Downloader (TXT + PDF)
 // @name:ja      小説家になろうダウンローダー (TXT + PDF)
-// @namespace    https://github.com/lyre/syosetu-dl
+// @namespace    https://github.com/Lyre-04/Personal_project/
 // @version      1.3.0
 // @description     Download novels from 小説家になろう (syosetu) as TXT/PDF. Single/batch episodes, combined/individual files, selectable metadata. Ruby is unfolded as kanji(furigana). UI in Korean/English/Japanese.
 // @description:ko  소설가가되자(syosetu)에서 소설을 TXT/PDF로 다운로드. 단일 화/전체 일괄, 통합/개별 파일, 메타데이터 선택 가능. 루비는 한자(후리가나) 형태. UI는 한국어/영어/일본어 지원.
